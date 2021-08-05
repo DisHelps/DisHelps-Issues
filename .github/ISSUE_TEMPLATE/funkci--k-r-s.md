@@ -1,5 +1,5 @@
 ---
-name: Funkció kérés
+name: Funkció kérés haladóbbaknak
 about: Javasolj egy ötletet
 title: ''
 labels: enhancement
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-** Problémához kapcsolódik a funkciókérés? Kérjlek, írdle. **
+** Problémához kapcsolódik a funkciókérés? Kérlek, írd le. **
 Világos és tömör leírás arról, hogy mi a probléma. Pl.: Mindig zavar, hogy [...]
 
 ** Írd le a kívánt megoldást **
