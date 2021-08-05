@@ -1,0 +1,30 @@
+name: Probéma
+description: Az alkalmazásban talált probléma jelentése
+title: ""
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Mi történt?
+      description: Mondd el azt is, hogy mire számítottál? Ha segíthet, képeket is fel tudsz tölteni ide. 
+      placeholder: Mondd el, hogy mit látsz!
+      value: ""
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operációs rendszer
+      description: Milyen eszközön találtad a probémát?
+      options:
+        - Android
+        - iOS
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Verzió
+      description: "Mikor töltötted le az alkalmazást? / Verzió szám:"
+      placeholder: "pl. 2021. június 24. reggel / v1.11.2"
