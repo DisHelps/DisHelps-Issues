@@ -8,7 +8,6 @@ body:
       label: Mi történt?
       description: Mondd el azt is, hogy mire számítottál? Ha segíthet, képeket is fel tudsz tölteni ide. 
       placeholder: Mondd el, hogy mit látsz!
-      value: ""
     validations:
       required: true
   - type: dropdown
