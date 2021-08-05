@@ -1,0 +1,10 @@
+name: Funkció kérés
+description: Javasolj egy ötletet
+labels: [enhancement]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: A funkció/ötlet leírása:
+    validations:
+      required: true
