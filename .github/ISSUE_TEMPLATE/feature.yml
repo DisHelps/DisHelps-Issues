@@ -5,6 +5,6 @@ body:
   - type: textarea
     id: feature
     attributes:
-      label: A funkció/ötlet leírása:
+      label: "A funkció/ötlet leírása:"
     validations:
       required: true
