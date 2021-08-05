@@ -1,6 +1,5 @@
 name: Probéma
 description: Az alkalmazásban talált probléma jelentése
-title: ""
 labels: [bug]
 body:
   - type: textarea
