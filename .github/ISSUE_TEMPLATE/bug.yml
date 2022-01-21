@@ -1,4 +1,4 @@
-name: Probléma
+name: Hiba/bug
 description: Az alkalmazásban talált probléma jelentése
 labels: [bug]
 body:
@@ -24,5 +24,5 @@ body:
     id: version
     attributes:
       label: Verzió
-      description: "Mikor töltötted le az alkalmazást? / Verzió szám:"
-      placeholder: "pl. 2021. június 24. reggel / v1.11.2"
+      description: "A profil odalon található verzió"
+      placeholder: "pl. v1.11.2 (42)"
