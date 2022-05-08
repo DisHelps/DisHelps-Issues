@@ -1,5 +1,5 @@
 name: Funkció kérés
-description: Javasolj egy ötletet
+description: Ossz meg egy ötletet
 labels: [enhancement]
 body:
   - type: textarea
